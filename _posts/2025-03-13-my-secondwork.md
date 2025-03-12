@@ -1,8 +1,7 @@
 ---
 layout: page
-title: " my second post"
+title : "내 첫 게시물"
 
 
 ---
-
-#마크다운 2일차
+# 마크다운이란?
