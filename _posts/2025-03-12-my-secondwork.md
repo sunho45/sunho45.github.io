@@ -1,6 +1,6 @@
 ---
 layout: page
-title : "내 첫 게시물"
+title : "내 두번째 게시물"
 
 
 ---
