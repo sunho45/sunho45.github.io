@@ -48,7 +48,7 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
+# Uncomment the links you want to show and add your informatn to each one.
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
@@ -80,15 +80,15 @@ social-network-links:
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
-#  itchio: yourname
+#  itch: yourname
 #  untappd: yourname
 
-# If you want your website to generate an RSS feed, provide a description
+# If you want your website to generate an RSS feed, provide a descriptn
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-descriptn: This website is a virtual proof that I'm awesome
 
 ###########################
-# --- General options --- #
+# --- General optns --- #
 ###########################
 
 # Select which social network share links to show in posts
