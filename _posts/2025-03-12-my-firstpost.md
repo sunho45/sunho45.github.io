@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title : "내 첫 게시물"
 
 
