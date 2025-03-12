@@ -1,5 +1,5 @@
 ---
-style: page
+layout: page
 title: " my second post"
 
 
